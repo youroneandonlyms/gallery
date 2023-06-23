@@ -1,19 +1,13 @@
 body {
 		font-family:  Monospace, Arial, sans-serif;
 		background-image: url("background.jpg") ; 
-		background-repeat: repeat-x;}
+		background-repeat: repeat;}
 		h1, h3, p{color: white;
 			text-align: center;
 	padding: 20px;
 }
 
 
-}
-
-.gallery {
-	display: grid;
-	grid-template-columns: repeat(4, 1fr);
-	grid-gap: 20px;
 }
 
 .gallery img {
